@@ -1,0 +1,49 @@
+SpaceChem: How to Defeat the Stage 8 Boss
+
+In the setup illustrated by the screenshots in this folder, the following 
+procedure defeats the boss:
+
+First, there are three laser types: The molecule for the red laser will be
+produced when NO switch is active. The molecule for the green laser will be 
+produced when switch A is active. The molecule for the blue laser will be
+produced, when switches A and B are active. Switch D sends the "waldos" into
+a busy loop.
+
+Observe the status of the waldos when hitting switches. It is convenient, to
+activate switch D once the waldos are on the way to producing the desired
+molecule. This means that after completing it, the waldos will enter a busy
+loop again, at which point you can safely deactivate any switch that isn't a D
+switch. It is recommended to perform manual intervention during the battle
+at the lowest speed, or even pause the simulation for that purpose.
+
+The most important bottle neck is the bottom pipe that can only hold two 
+H atoms. The simulation enters a (live)lock if this piple is clogged. The same
+happens if the desired H atom is missing; well, technically, you enter a
+deadlock in that situation. As it turns out, the lasers the boss
+fires are deterministic. They are always fired in the same order. Thus, you can 
+premeditate your actions.
+
+The following balances of H atoms are good to keep in mind: the molecule for the
+red laser consumes one H atoms more than the inputs provide. The molecule for
+the green laser produces one surplus H molecule. Arguably most annoyingly, the
+molecule for the blue laser produces three surplus H molecules, which means that
+the simulation will lock if you don't react quickly to this constraint.
+
+With this prelude out of the way, perform the following steps:
+1) Fire the green laser to get 1 surplus H atom, which is needed for 2)
+2) Fire the red laser when the red eye opens
+3) Fire the green laser when the green eye opens
+4) Fire the red laser to get rid of the surplus H atom in the pipe
+5) Fire the blue laser when the blue eye opens; for this, make sure that the
+   first reactor keeps one of the H atoms in it, and only release it once the
+   output pipe can consume it
+6) Fire the red laser to get rid of 1 surplus H atom
+7) Fire the red laser again to get rid of another surplus H atom
+8) Fire the red laser when the red eye opens; for this, release the temporarily
+   stored H atom in the first reactor
+9) Fire the green laser when the green eye opens
+
+This is it. You should now have defeated the final boss of this planet. There
+is no death animation, so just fast-forward the simulation to trigger the
+summary screen.
+
