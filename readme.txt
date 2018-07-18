@@ -45,7 +45,6 @@ a fan-made compatibility patch to get the game running.
 
 TODO:
 --------------------------------------------------------------------------------
-. Remaining Challenges
 . Bonus_Australia
 . DLC_Corvi_63
 . Research_Net
