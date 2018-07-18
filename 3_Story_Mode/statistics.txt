@@ -102,7 +102,8 @@ Hephaestus IV:
   b: 9454, 2, 82
 6.6 Gas Works Park
   a: 1022, 5, 164
-TODO: 6.7 Challenge: KOHCTPYKTOP
+6.7 Challenge: KOHCTPYKTOP
+  a: 11602, 5, 223
 6.8 More than Machine
 
 Atropos Station:
