@@ -1,0 +1,8 @@
+Log created, script running.
+[NOTE: This is a MonoKickstart build, based on Mono 4.2.4! Hacky!]
+Working directory = "/"
+Invoked path = "/Users/gregor/Library/Application Support/Steam/steamapps/common/SpaceChem/SpaceChem.app/Contents/MacOS/SpaceChem"
+.app path = "/Users/gregor/Library/Application Support/Steam/steamapps/common/SpaceChem/SpaceChem.app"
+App name = "SpaceChem"
+Changed to Resources directory; working directory = "/Users/gregor/Library/Application Support/Steam/steamapps/common/SpaceChem/SpaceChem.app/Contents/Resources"
+Launching SpaceChem!
