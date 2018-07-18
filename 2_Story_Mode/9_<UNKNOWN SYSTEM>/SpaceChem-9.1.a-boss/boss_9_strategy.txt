@@ -1,0 +1,27 @@
+SpaceChem: How to Defeat the Stage 9 Boss
+
+In the setup illustrated by the screenshots in this folder, the following 
+procedure defeats the final boss:
+
+First, notice that only one of the thrusters is active. This exploits the
+behavior of the enemy. Your ship steers to the right automatically, and it
+will stay there. Now, keep an eye on the omega-missile launcher: whenever
+the storage for H_2 is 7/8 full, hit the D switch briefly to make the Xe
+atom travel down to the VGM laser reactor. Right after the Xe atom has
+left the busy loop it was trapped in, deactivate the D switch again. Your
+spaceship will now fire a laser which will "phase-lock" the enemy. An 
+omega missile will be fired, which will hit the enemy while it is trapped
+in that state. Repeat these instructions.
+
+You have to hit the enemy ship ten times to win this fight. The system that
+was set up will produce the required molecules so quickly that the enemy
+won't get the chance to attack. Instead, it will remain locked on the right
+side of the screen, taking one omega rocket after another. It may happen
+that an asteroid is in the path of the rocket. You are welcome to ignore
+this. If the omega rocket hits the asteroid, both the rocket and the
+asteroid will be destroyed. However, in the unlikely case that your ship
+will be hit, the damage dealt by the asteroid is insignificant.
+
+After ten hits, the fight is over. Your reactors will stop moving. However,
+the enemy ship may fire a laser at that point, which you won't be able to
+defend yourself against. This is likewise irrelevant.
