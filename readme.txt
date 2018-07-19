@@ -5,9 +5,25 @@ Gregor Ulm, 2018
 
 Introduction
 --------------------------------------------------------------------------------
-
 This directory contains solutions to Zachtronic's design puzzle game SpaceChem.
-Research and production levels are specified by the following data: elapsed
+It is a visual programming in disguise. Its objective amounts to coming up with
+procedures (research levels) or even programs (production levels) that
+transform a given input into the desired output. The challenge is two-fold:
+(1) using the provided limited abstractions for your solutions, and (2) fitting
+them into tight spacial constraints. Once your code works, you have the choice
+to make it beautiful and/or make it fast by finding a more efficient routing
+of the instruction path, using fewer symbols, or finding different approaches
+that may, for instance, increase parallelism that leads to using fewer cycles.
+Overall, SpaceChem is a very satisfying game if you enjoy creative problem
+solving. If not, you will probably be turned off within minutes. Having a
+background in computer science, in particular functional programming, is a big
+advantage, as the solutions you are working with are all pure functions.
+
+
+Solutions
+--------------------------------------------------------------------------------
+My solutions are organized in various folders, which contain a statistics.txt
+file. Research and production levels are specified by the following data: elapsed
 cycles, reactors used, and symbols used. The provided video files were
 originally recorded in-game and later on transcoded into H.265 to save space.
 Defense missions cannot be recorded. For these, screenshots describing the
@@ -35,7 +51,7 @@ interesting improvements over the initial solution. Lastly, there are several
 known glitches in SpaceChem that can be exploited by the user to produce faster
 solutions. I have not resorted to any of those.
 
-There are supposedly differences in levels that use random inputs, depening on
+There are supposedly differences in levels that use random inputs, depending on
 the used operating system and its implementation of pseudo-random numbers. I
 have not looked into this in detail. Some people even claim that those no such
 differences exist. In any case, I played SpaceChem on Apple macOS 10.13.
