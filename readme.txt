@@ -59,9 +59,14 @@ SpaceChem is no longer officially supported on that platform, so I had to use
 a fan-made compatibility patch to get the game running.
 
 
+Folders
+--------------------------------------------------------------------------------
+TODO
+
+
+
 TODO:
 --------------------------------------------------------------------------------
-. Bonus_Australia
 . DLC_Corvi_63
 . Research_Net
 . Steam Achievements

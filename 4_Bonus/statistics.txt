@@ -1,0 +1,11 @@
+Statistics: Australia Bonus Puzzles
+-----------------------------------
+
+1. Moustachium 602
+  a: 121, 1, 34
+2. Moustachium 604
+  a: 383, 1, 43
+  b: 284, 1, 41
+  c: 240, 1, 35 
+3. Moustachium 608
+  a: 446, 1, 64
