@@ -61,7 +61,10 @@ a fan-made compatibility patch to get the game running.
 
 Folders
 --------------------------------------------------------------------------------
-TODO
+1_Extra      : Misc. screenshots
+2_Save_File  : Backup of my local save file
+3_Story_Mode : Solutions to all story mode missions
+4_Bonus      : Solutions to all bonus missions (Moustachium)
 
 
 
