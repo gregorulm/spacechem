@@ -66,9 +66,9 @@ Folders
 3_Story_Mode : Solutions to all story mode missions
 4_Bonus      : Solutions to all bonus missions (Moustachium)
 5_DLC        : Solutions to all DLC missions (Corvi 63)
-
+6_Journal    : Solutions to JRE problems (ResearchNet)
 
 TODO:
 --------------------------------------------------------------------------------
-. Research_Net
+. ResearchNet / JRE 
 . Steam Achievements
