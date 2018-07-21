@@ -65,11 +65,10 @@ Folders
 2_Save_File  : Backup of my local save file
 3_Story_Mode : Solutions to all story mode missions
 4_Bonus      : Solutions to all bonus missions (Moustachium)
-
+5_DLC        : Solutions to all DLC missions (Corvi 63)
 
 
 TODO:
 --------------------------------------------------------------------------------
-. DLC_Corvi_63
 . Research_Net
 . Steam Achievements
