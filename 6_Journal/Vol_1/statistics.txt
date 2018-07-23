@@ -11,3 +11,11 @@ Issue 1 (Introduction to Quantum Tunnels):
   a: 367, 1, 52
   b: 416, 1, 59
   c: 268, 1, 48
+
+Issue 2 (Introduction to Fission):
+2.1 Fission I
+  a: 38, 1, 21
+2.2 Fission II
+  a: 101, 1, 30
+2.3 Fission III
+  a: 52, 1, 33
