@@ -6,18 +6,19 @@ Gregor Ulm, 2018
 Introduction
 --------------------------------------------------------------------------------
 This directory contains solutions to Zachtronic's design puzzle game SpaceChem.
-It is a visual programming in disguise. Its objective amounts to coming up with
-procedures (research levels) or even programs (production levels) that
-transform a given input into the desired output. The challenge is two-fold:
-(1) using the provided limited abstractions for your solutions, and (2) fitting
-them into tight spacial constraints. Once your code works, you have the choice
-to make it beautiful and/or make it fast by finding a more efficient routing
-of the instruction path, using fewer symbols, or finding different approaches
-that may, for instance, increase parallelism that leads to using fewer cycles.
-Overall, SpaceChem is a very satisfying game if you enjoy creative problem
-solving. If not, you will probably be turned off within minutes. Having a
-background in computer science, in particular functional programming, is a big
-advantage, as the solutions you are working with are all pure functions.
+It is visual programming in disguise, with a Turing-complete visual programming
+language, no less. The objective of the game is to come up with procedures
+(research levels) or even programs (production levels) that transform a given
+input into the desired output. The challenge is two-fold: (1) using the provided
+limited abstractions for your solutions, and (2) fitting them into tight spacial
+constraints. Once your code works, you have the choice to make it beautiful
+and/or make it fast by finding a more efficient routing of the instruction path,
+using fewer symbols, or finding different approaches that may, for instance,
+increase parallelism that leads to using fewer cycles. Overall, SpaceChem is a
+very satisfying game if you enjoy creative problem solving. If not, you will
+probably be turned off within minutes. Having a background in computer science,
+in particular functional programming, is a big advantage, as the solutions you
+create are all pure functions.
 
 
 Solutions
