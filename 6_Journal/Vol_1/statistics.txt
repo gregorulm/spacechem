@@ -19,3 +19,12 @@ Issue 2 (Introduction to Fission):
   a: 101, 1, 30
 2.3 Fission III
   a: 52, 1, 33
+
+Issue 3 (Beta Decay):
+3.1 Chloroform
+  a: 2355, 1, 82
+  b: 1580, 1, 97
+3.2 Cycloaddition
+  a: 573, 1, 46
+3.3 KOHCTPYKTOR++
+  a: 1310, 1, 70
