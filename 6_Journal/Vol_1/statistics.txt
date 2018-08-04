@@ -28,3 +28,11 @@ Issue 3 (Beta Decay):
   a: 573, 1, 46
 3.3 KOHCTPYKTOR++
   a: 1310, 1, 70
+
+Issue 4 (Fantastic Organics I):
+4.1 Quantum Decomposition
+  a: 324, 1, 32
+4.2 Propane Accessories
+  a: 932, 1, 44
+4.3 Benzoic Acid
+  a: 630, 1, 70
