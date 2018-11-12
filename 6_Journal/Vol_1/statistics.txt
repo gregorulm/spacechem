@@ -56,7 +56,8 @@ Issue 6 (Crystalline Structures):
   a: 1124, 1, 35
   b:  786, 1, 45
 6.3 Galvanization
-  a:
+  a: 2492, 1, 75
+  b: 1724, 1, 69
 
 Issue 7 (Fantastic Organics III):
 7.1 Industrial Methanol
