@@ -37,8 +37,72 @@ Issue 4 (Fantastic Organics I):
 4.3 Benzoic Acid
   a: 630, 1, 70
 
+--------------------------------
+
 Issue 5 (Fantastic Organics II):
 5.1 Electrophilic Addition
   a: 318, 1, 32
+  b: 238, 1, 26
 5.2 Diethyl Ether
   b: 364, 1, 36
+5.3 2-Hexene
+  a:
+
+Issue 6 (Crystalline Structures):
+6.1 Mazeite'
+  a: 725, 1, 83
+  b: 164, 1, 24 
+6.2 Silica
+  a: 1124, 1, 35
+  b:  786, 1, 45
+6.3 Galvanization
+  a:
+
+Issue 7 (Fantastic Organics III):
+7.1 Industrial Methanol
+  a: 269, 1, 35
+7.2 Glyoxylic Acid
+  a: 317, 1, 37
+7.3 Bioplastic:
+  a:
+
+Issue 8 (Nuclear Science):
+8.1 Chlorination
+  a:
+8.2 Sulfuric Acid
+  a:
+8.3 Bad Times
+  a:
+
+Issue 9 ("Actual Science"):
+9.1 Friedel-Crafts
+  a: 254, 1, 32
+9.2 Wöhler Synthesis
+  a: 275, 1, 34
+9.3 Diels-Alder
+  a: 430, 1, 49
+  b: 353, 1, 48
+
+Issue 10 ("Fantastic Organics IV):
+10.1 Bad Times, Part II
+  a:
+10.2 Freon
+  a:
+(?) 10.3 Benzene Derivation
+  a:
+
+Issue 11 (Crystalline Structures 2):
+11.1 Portland Cement
+  a:
+11.2 Solder Coarsening
+  a:
+11.3 Graphene
+  a:
+
+Issue 12 (More like "Superfun"!):
+12.1 The Big Cleanup
+  a:
+12.2 Going Green Part II
+  a:
+12.3 Waste Treatment
+  a:
