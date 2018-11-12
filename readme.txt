@@ -57,7 +57,9 @@ the used operating system and its implementation of pseudo-random numbers. I
 have not looked into this in detail. Some people even claim that those no such
 differences exist. In any case, I played SpaceChem on Apple macOS 10.13.
 SpaceChem is no longer officially supported on that platform, so I had to use
-a fan-made compatibility patch to get the game running.
+a fan-made compatibility patch to get the game running. (Edit: In November 2018,
+Zachtronics restored SpaceChem's macOS support with a patch. It is unclear if
+this affects levels with random inputs in a meaningful way.)
 
 
 Folders
