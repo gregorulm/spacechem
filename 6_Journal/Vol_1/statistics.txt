@@ -37,8 +37,6 @@ Issue 4 (Fantastic Organics I):
 4.3 Benzoic Acid
   a: 630, 1, 70
 
---------------------------------
-
 Issue 5 (Fantastic Organics II):
 5.1 Electrophilic Addition
   a: 318, 1, 32
@@ -46,7 +44,7 @@ Issue 5 (Fantastic Organics II):
 5.2 Diethyl Ether
   b: 364, 1, 36
 5.3 2-Hexene
-  a:
+  a: 1639, 1, 83
 
 Issue 6 (Crystalline Structures):
 6.1 Mazeite'
@@ -65,7 +63,9 @@ Issue 7 (Fantastic Organics III):
 7.2 Glyoxylic Acid
   a: 317, 1, 37
 7.3 Bioplastic:
-  a:
+  a: 745, 1, 63
+
+--------------------------------
 
 Issue 8 (Nuclear Science):
 8.1 Chlorination
