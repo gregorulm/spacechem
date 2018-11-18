@@ -73,6 +73,7 @@ Alkonost:
 Sikutar:
 5.1 Ice to Meet You
   a: 87, 1, 24
+  b: 86, 1, 25
 5.2 Under the Ice
   a: 200, 1, 33
 5.3 Unknown Sender
@@ -94,6 +95,7 @@ Hephaestus IV:
 6.3 The Plot Thickens
   a: 1029, 1, 58
   b:  970, 1, 54
+  c:  950, 1, 49
 6.4 Danger Zone
   a: 349, 1, 22
   b: 209, 1, 35
@@ -112,10 +114,14 @@ Atropos Station:
 7.2 No Stomach for Lunch
   a: 326, 1, 37
   b: 313, 1, 37
+  c: 249, 1, 35
 7.3 No Employment Record Found
   a: 842, 1, 82
+  b: 854, 1, 80
+  c: 882, 1, 73
 7.4 Right All Along
   a: 1639, 1, 59
+  b: 1227, 1, 52
 7.5 Accidents Happen
   a: 705, 1, 84
 7.6 Don't Fear the Reaper
