@@ -64,9 +64,12 @@ this affects problems with random inputs in a meaningful way.)
 
 Folders
 --------------------------------------------------------------------------------
-1_Extra      : Misc. screenshots
-2_Save_File  : Backup of my local save file
-3_Story_Mode : Solutions to all story mode missions
-4_Bonus      : Solutions to all bonus missions (Moustachium)
-5_DLC        : Solutions to all DLC missions (Corvi 63)
-6_Journal    : Solutions to some JRE problems (ResearchNet)
+1_Extra       : Misc. screenshots
+2_Save_File   : Backup of my local save file
+3_Story_Mode  : Solutions to all story mode missions
+4_Bonus       : Solutions to all bonus missions (Moustachium)
+5_DLC         : Solutions to all DLC missions (Corvi 63)
+
+In progress:
+6_Journal     : Solutions to some JRE problems (ResearchNet)
+7_Tournaments : Solutions to SpaceChem tournament problems
