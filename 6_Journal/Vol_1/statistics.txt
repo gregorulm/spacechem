@@ -69,7 +69,7 @@ Issue 7 (Fantastic Organics III):
 
 Issue 8 (Nuclear Science):
 8.1 Chlorination
-  a:
+  a: 1215, 1, 90
 8.2 Sulfuric Acid
   a:
 8.3 Bad Times
@@ -86,10 +86,10 @@ Issue 9 ("Actual Science"):
 
 Issue 10 ("Fantastic Organics IV):
 10.1 Bad Times, Part II
-  a:
+  a: 778, 1, 71
 10.2 Freon
   a:
-(?) 10.3 Benzene Derivation
+10.3 Benzene Derivation
   a:
 
 Issue 11 (Crystalline Structures 2):
