@@ -102,8 +102,12 @@ Issue 11 (Crystalline Structures 2):
 
 Issue 12 (More like "Superfun"!):
 12.1 The Big Cleanup
-  a:
+  a: 310, 1, 54
+  b: 296, 1, 55
+  c: 277, 1, 54
 12.2 Going Green Part II
-  a:
+  a: 348, 1, 59
+  b: 357, 1, 63
+  c: 281, 1, 69
 12.3 Waste Treatment
   a:
