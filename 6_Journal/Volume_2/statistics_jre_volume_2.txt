@@ -1,0 +1,12 @@
+Statistics: Journal of Reaction Engineering Vol. 2
+--------------------------------------------------
+
+Issue 1 (Spotlight on Benzene):
+1.1 Pyridine
+  a: 237, 1, 38
+1.2 Breakdown
+  a: 158, 1, 55 
+  b: 156, 1, 59
+  c: 144, 1, 57
+1.3 Vitamin B3
+  a:
